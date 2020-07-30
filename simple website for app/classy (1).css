@@ -1,0 +1,74 @@
+body{
+	background: url(https://seibelpublishingservices.com/wp-content/uploads/2019/03/Financial-experts-working.png);
+	background-blend-mode: lighten;
+	/*background-position: fixed;*/
+	background-attachment: fixed;
+
+	font-family: oswald;
+	
+	/*opacity: 0.5;*/
+}
+
+h1{
+	font-family: oswald;
+	color: yellow;
+}
+div{
+	color: white;
+	font-family: oswald;
+	font-size: 30px;
+}
+
+.one{
+	color: white;
+	font-family: oswald;
+	border: 10px solid #bdc3c7;
+	padding: 10px;
+	width: 40%;
+	margin: 20px auto ;
+	background: gray;
+
+
+}
+
+.two{
+
+	margin-top: 150px;
+	text-decoration: underline;
+}
+
+.three{
+	color: white;
+	font-family: oswald;
+	
+}
+a{
+	color: white;
+}
+
+#tit{
+
+	text-decoration: underline;
+}
+input.largercheckbox{
+	width: 20px;
+	height: 20px;
+}
+button.submit{
+	 padding: 10px;
+}
+.bb{
+
+	 margin:  0px 100px;
+	 text-shadow: 0 0 7px black, 0 0 1px black;
+	 box-shadow: 0 0 7px black, 0 0 1px black;
+	 background-color: rgb(0, 0, 0,0.7);
+
+}
+button{
+	font-size: 24px;
+	border-radius: 10px;
+}
+button:hover{
+	background-color: rgb(255, 255, 255, 0.5);
+}
